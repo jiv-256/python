@@ -1,12 +1,13 @@
+# lets starts python programming
 # Comments
 # single line comment
 # rough type copy - 5 (200 pages)
 # hanger 
 # lunch box
-# ja na 
+ 
 # multi line comment
 ''' 
-author : Harry
+author : rajiv
 licenced to : ABC company 
 '''
 # note:- if you use triple coute alone then it is  in print then it become string literal 
