@@ -14,3 +14,5 @@ b = 34
 b = str(b)
 print(b) #output=>34
 print(type(b)) #output=><class 'str'>
+ 
+
