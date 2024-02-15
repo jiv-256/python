@@ -1,5 +1,5 @@
 # lets starts python programming
-# Comments in py
+# Comments in pyth
 # single line comment
 # rough type copy - 5 (200 pages)
 # hanger 
