@@ -2,7 +2,7 @@ a = "345"
 # the type function used to find the type of datatype of a variable
 print(type(a))
 # output -> <class 'str'>
-
+ 
 # typecasting - Type Casting is the method to convert the Python variable datatype into a certain data type in order to perform the required operation by users.
 
 a = int(a)
