@@ -5,7 +5,7 @@ b = 356
 c = 45.43
 # Python is dynamically typed, which means that variable types are determined and checked at runtime rather than during compilation. In dynamically typed languages like Python, you don't need to explicitly declare the variable type before using it.
 
-# keywords - reserved words in python
+# keywords - reserved words in python   
 '''
 False    	def	       if           raise       None    	del	       import	    return
 True	    elif	   in	        try         and	        else	   is	        while
